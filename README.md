@@ -11,9 +11,9 @@
 
 
 ### Connect with Me 
-[![img_contact](./img/perso.jpeg)](https://amostinanfon.github.io/myportfolio/#gh-dark-mode-only)
+[![img_contact](./img/spider.jpg)](https://amostinanfon.github.io/myportfolio/#gh-dark-mode-only)
 
-[![img_contact](./img/perso.jpeg)](https://amostinanfon.github.io/myportfolio/#gh-light-mode-only)
+[![img_contact](./img/spider.jpg)](https://amostinanfon.github.io/myportfolio/#gh-light-mode-only)
 
 Languages and Tools :
 
