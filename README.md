@@ -33,7 +33,7 @@ Languages and Tools :
 <img width="30px" align="left" alt="react" style="padding-right:11px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img width="30px" align="left" alt="react" style="padding-right:11px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img width="30px" align="left" alt="react" style="padding-right:11px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
-<img width="30px" align="left" alt="react" style="padding-right:11px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+<img width="30px" align="left" alt="react" style="padding-right:11px; margin-right:20px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 
 
 ### MY DAILY ROUTINE 
