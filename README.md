@@ -1,4 +1,4 @@
-I'm Amos from Cameroon, living in Douala 🌴, Web developper and Designer , I do creating on Development and Freelancing. I really enjoy learning languages and frameworks like JS and React.
+I'm Amos from Cameroon, living in Douala 🌴, Web developer and Designer , I do creating on Development and Freelancing. I really enjoy learning languages and frameworks like JS and React.
 
 Actually:
 
